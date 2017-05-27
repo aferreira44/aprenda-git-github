@@ -1,0 +1,10 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Ao rodar o comando "git init", o git cria a pasta oculta /.git onde salva os metadados do repositório e exibe a mensagem que um repositório vazio foi criado.
+
+---
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+É uma área onde é possível preparar somente as alterações para enviar como commit ao repositório.
+Com isso, é possível enviar as alterações de acordo com uma lógica, sem ter que adicionar todas as alterações de uma só vez ao repositório.
