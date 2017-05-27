@@ -70,3 +70,11 @@ O Git tenta resolver os merges automaticamente sempre que não há confiltos nas
 Se houver código diferente em linhas iguais, os conflitos devem ser resolvidos manualmente
 
 Isso agiliza o trbalho e fica fácil de resolver problemas de trabalho em equipe
+
+---
+
+### Lição 3
+
+**Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?**
+
+Quando eu quiser manter um backup online do meu repositório local ou quando tiver a colaboração de outras pessoas no projeto
