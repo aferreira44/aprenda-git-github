@@ -78,3 +78,13 @@ Isso agiliza o trbalho e fica fácil de resolver problemas de trabalho em equipe
 **Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?**
 
 Quando eu quiser manter um backup online do meu repositório local ou quando tiver a colaboração de outras pessoas no projeto
+
+**Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?**
+
+Porque assim posso baixar as alterações que outros colaboradores realizaram quando eu estiver com as minhas alterações boas o suficiente para gerar menos conflitos.
+
+**Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?**
+
+Forks: Faz um clone de um repositório no GitHub para a sua conta no GitHub, associando o seu repositório ao original.
+Clones: Copia um repositório remoto para a sua máquina local.
+Branches: Separa a resolução de um código ou uma nova feature do código principal do repositório.
