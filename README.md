@@ -96,3 +96,7 @@ De poder trabalhar offline com as últimas modificações do projeto, mas soment
 **Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?**
 
 Todas as alterações seriam enviadas diretamente no master ou em branches separados, mas não haveria a possibilidade de ter a revisão de outras pessoas, o que dificulta a chance de haver erros no código e bugs
+
+**Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?**
+
+Quando eu estiver colaborando com um projeto em um repositório remoto. Dessa maneira, minhas colaborações podem ser revistas antes de serem mescladas ao branch master.
