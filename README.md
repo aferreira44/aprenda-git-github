@@ -88,3 +88,11 @@ Porque assim posso baixar as alterações que outros colaboradores realizaram qu
 Forks: Faz um clone de um repositório no GitHub para a sua conta no GitHub, associando o seu repositório ao original.
 Clones: Copia um repositório remoto para a sua máquina local.
 Branches: Separa a resolução de um código ou uma nova feature do código principal do repositório.
+
+**Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?**
+
+De poder trabalhar offline com as últimas modificações do projeto, mas somente fazer o merge com o seu repositório local, quando achar mais conveniente.
+
+**Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?**
+
+Todas as alterações seriam enviadas diretamente no master ou em branches separados, mas não haveria a possibilidade de ter a revisão de outras pessoas, o que dificulta a chance de haver erros no código e bugs
