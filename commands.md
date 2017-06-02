@@ -110,6 +110,10 @@ Reset the changes on the working directory and the staging area
 
 `git log --graph --oneline master coins`
 
+### Show a nice ASCII-art graph of the commit history, and each commit will show any refs that are targeting it
+
+`git log --pretty=oneline --abbrev-commit --graph --decorate --all`
+
 ### Show the difference between the working directory and the staging area
 
 `git diff`
