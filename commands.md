@@ -82,6 +82,10 @@ Reset the changes on the working directory and the staging area
 
 `git commit -m "Commit message"`
 
+### Add last changes to the last commit made
+
+`git commit --amend`
+
 ### Clone a repository
 
 `git clone https://github.com/udacity/asteroids.git`
